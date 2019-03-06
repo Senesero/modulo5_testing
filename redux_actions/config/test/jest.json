@@ -1,0 +1,8 @@
+{
+    "rootDir": "../../",
+    "preset": "ts-jest",
+    "setupFiles": [
+        "<rootDir>/config/test/polyfills.js"
+    ],
+    "restoreMocks": true
+}
