@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1552829940003" clover="3.2.0">
+  <project timestamp="1552829940003" name="All files">
+    <metrics statements="200" coveredstatements="148" conditionals="23" coveredconditionals="17" methods="53" coveredmethods="43" elements="276" coveredelements="208" complexity="0" loc="200" ncloc="200" packages="16" files="46" classes="46"/>
+    <package name="src">
+      <metrics statements="36" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="app.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\app.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="appProvider.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\appProvider.tsx">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="appRouter.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\appRouter.tsx">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="history.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\history.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\index.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="routes.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\routes.tsx">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="store.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\store.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.common.components.form">
+      <metrics statements="17" coveredstatements="17" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <file name="button.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\form\button.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\form\index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+      <file name="input.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\form\input.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.common.components.panel">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\panel\index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="panel.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\panel\panel.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.common.components.panel.components">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="body.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\panel\components\body.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="header.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\panel\components\header.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\components\panel\components\index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.common.constants.routes">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\common\constants\routes\index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\index.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+      <file name="reducers.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\reducers.ts">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.login">
+      <metrics statements="24" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="6"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\index.ts">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+      </file>
+      <file name="mappers.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\mappers.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="page.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\page.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="pageContainer.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\pageContainer.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+      <file name="validations.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\validations.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+      <file name="viewModel.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\viewModel.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.login.actions">
+      <metrics statements="24" coveredstatements="24" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="8"/>
+      <file name="actionIds.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\actions\actionIds.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+      </file>
+      <file name="loginRequest.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\actions\loginRequest.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+      </file>
+      <file name="updateLoginEntityField.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\actions\updateLoginEntityField.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.login.components">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="form.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\components\form.tsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\components\index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.login.reducers">
+      <metrics statements="10" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\reducers\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="login.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\login\reducers\login.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.members">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.members.list">
+      <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <file name="mappers.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\mappers.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="page.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\page.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="pageContainer.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\pageContainer.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.members.list.actions">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="actionIds.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\actions\actionIds.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="fetchMembers.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\actions\fetchMembers.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.members.list.components">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="body.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\components\body.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="header.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\components\header.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\components\index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="row.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\components\row.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="table.tsx" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\components\table.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.members.list.reducers">
+      <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="index.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\reducers\index.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+      </file>
+      <file name="members.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\pages\members\list\reducers\members.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.rest-api.api">
+      <metrics statements="12" coveredstatements="8" conditionals="6" coveredconditionals="2" methods="6" coveredmethods="2"/>
+      <file name="login.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\rest-api\api\login.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="member.ts" path="C:\Users\Alguien\Desktop\Lemoncode\5_testing\modulo5_testing.git\trunk\04_coverage\src\rest-api\api\member.ts">
+        <metrics statements="8" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
