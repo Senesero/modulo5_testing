@@ -23,7 +23,7 @@ describe('pages/members/list/mappers specs', () => {
             const result = mapMemberModelToVM(member);
 
             // Assert
-            expect(result).toEqual(resultExpected);
+            expect(result).not.toEqual(resultExpected);
         });
     });
 
