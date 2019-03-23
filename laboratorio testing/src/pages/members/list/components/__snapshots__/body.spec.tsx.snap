@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/members/list/components/body tests should render as expected when passing required properties 1`] = `
+<tbody>
+  <Component
+    key="1"
+    member={
+      Object {
+        "avatarUrl": "avatar 1",
+        "id": 1,
+        "name": "login 1",
+      }
+    }
+  />
+  <Component
+    key="2"
+    member={
+      Object {
+        "avatarUrl": "avatar 2",
+        "id": 2,
+        "name": "login 2",
+      }
+    }
+  />
+</tbody>
+`;
+
+exports[`pages/members/list/components/body tests should render as expected when passing required properties with mount 1`] = `
+<Component
+  members={
+    Array [
+      Object {
+        "avatarUrl": "avatar 1",
+        "id": 1,
+        "name": "login 1",
+      },
+      Object {
+        "avatarUrl": "avatar 2",
+        "id": 2,
+        "name": "login 2",
+      },
+    ]
+  }
+>
+  <tbody>
+    <Component
+      key="1"
+      member={
+        Object {
+          "avatarUrl": "avatar 1",
+          "id": 1,
+          "name": "login 1",
+        }
+      }
+    >
+      <tr>
+        <td>
+          <img
+            src="avatar 1"
+            style={
+              Object {
+                "maxWidth": "10rem",
+              }
+            }
+          />
+        </td>
+        <td>
+          <span>
+            1
+          </span>
+        </td>
+        <td>
+          <span>
+            login 1
+          </span>
+        </td>
+      </tr>
+    </Component>
+    <Component
+      key="2"
+      member={
+        Object {
+          "avatarUrl": "avatar 2",
+          "id": 2,
+          "name": "login 2",
+        }
+      }
+    >
+      <tr>
+        <td>
+          <img
+            src="avatar 2"
+            style={
+              Object {
+                "maxWidth": "10rem",
+              }
+            }
+          />
+        </td>
+        <td>
+          <span>
+            2
+          </span>
+        </td>
+        <td>
+          <span>
+            login 2
+          </span>
+        </td>
+      </tr>
+    </Component>
+  </tbody>
+</Component>
+`;
