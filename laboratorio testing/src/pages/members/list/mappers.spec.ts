@@ -25,6 +25,27 @@ describe('pages/members/list/mappers specs', () => {
             // Assert
             expect(result).toEqual(resultExpected);
         });
+
+        it('travis fallando should return transform member model to the view model', () => {
+            // Arrange
+            const member: model.Member = {
+                id: 1,
+                login: 'login 1',
+                avatar_url: 'avatar 1',
+            };
+
+            const resultExpected: vm.Member = {
+                id: 1,
+                name: 'login 1',
+                avatarUrl: 'avatar 1',
+            };
+
+            // Act
+            const result = mapMemberModelToVM(member);
+
+            // Assert
+            expect(result).not.toEqual(resultExpected);
+        });
     });
 
     describe('mapMemberListModelToVM', () => {
