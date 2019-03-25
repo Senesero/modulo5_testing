@@ -23,20 +23,20 @@ describe('pages/members/list/mappers specs', () => {
             const result = mapMemberModelToVM(member);
 
             // Assert
-            expect(result).not.toEqual(resultExpected);
+            expect(result).toEqual(resultExpected);
         });
 
-        it('prueba travis should return transform member model to the view model', () => {
+        it('travis fallando should return transform member model to the view model', () => {
             // Arrange
             const member: model.Member = {
                 id: 1,
-                login: 'login 1.2',
+                login: 'login 1',
                 avatar_url: 'avatar 1',
             };
 
             const resultExpected: vm.Member = {
                 id: 1,
-                name: 'login 1.2',
+                name: 'login 1',
                 avatarUrl: 'avatar 1',
             };
 
